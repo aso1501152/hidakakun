@@ -12,6 +12,5 @@ public class MainActivity extends AppCompatActivity {
     }
 
     //更新テスト
-    //更新だよ
-  //hanadaaaaaaaa
+    //更新だよ----
 }
